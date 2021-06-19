@@ -1,1 +1,1 @@
-# Udacity Data Analyst Nanodegree
+# Daily Works As a Data Analyst
